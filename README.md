@@ -1,177 +1,79 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Yusuf%20Akil%20KARAKI%C5%9E%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
-```markdown
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=11D452&center=true&vCenter=true&width=480&lines=Student-Artificial%20Intelligence%20%26amp%3B%20Data%20Analysis;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
-```
+<p align="center">
+[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/YusufAkil-Ai)
+[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/ yusufakil-karakis)
+[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:yusufakilyusufakilkarakis@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/21_yusufakil_21)
+</p>
 
-```bash
-yusuf@system-core ~$ neofetch --user yusufakil --trilingual-mode
+<p align="center"><img src="https://komarev.com/ghpvc/?username=YusufAkil-Ai&color=11d452&style=for-the-badge" alt="Visitor Badge" /></p>
 
-```
+<p align="center">**Yusuf Akil KARAKIŞ**
+AI & Data Analysis Student @ Ahmet Yesevi University | Local AI & Systems Architect
+🌐 Trilingual Bio / 3 Dilli Profil
 
-```text
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-                                              .                                           
-                                           ..,..       .                                  
-                                  ...,:*?:,.:*#:.......      ..                           
-                                .;%#SS%SS#%?S##S*;?%S%+;.                                 
-                              ,##S##@@@@#@S##############%:.                              
-                            .**@##@@@@@@@@@@@@@@@#@@@@#@@@@@S;.                           
-                      ..  .:S@@#@@@#@@@@@@@@#@@@@@@@@#@@#@@#@@##*.                        
-                     ...:#?S@@#@@@@@@@@@@@@#@@@@@@@##@@@@@@#@@@S@#*:...                   
-                     . ;##@@###@@@@@@@@@@@@@@@###@@@@@@@@@@@@##@@@#S#,                    
-                     .:?#@@@@@@@@@@@@@@@@#@@#####@@@##@#@@@#@#@@@@@S*%;.                  
-                . .,;;###@@###@@#@@@##@S#S###S##S##@####@@@@@#@@@@@#@SS:.                 
-                  .:S#@S#@@@@@####@##SSSSSS%SSS#SS#SSSS@##@@@@#@#@@@##%+.                 
-               . .,?##@@@@@@@#######%????????%??%??%SS@@@@@#@@#####@*,..                
-                 .:?S##@@@@#S%%SSS%?S##%+*+**?%%%S*+++*?S@@@@@##@@@#@S#;.                 
-                 .,*#S@@@@#SSS%%?*+++*+;;;+++++*%?++++;;;*???%#S##@@@@#:                  
-                  ..%@##@#S#%***++;;;;?;++++;;;;;+*%%?++++++%**???%###S:                  
-                  ..+####S#?*+++++;;;;;;;;;;;;;;;;;;;;;;;+++++++++?S##%,                  
-                   ..S##S?++++++++;;;;;;;;;;;;;;;;;;;;;;;;++++++++*%##*.                  
-                     SSS%+++++++++;;;;;;;;;;;;;;;;;;;;;;;++++++++++?SS+.                  
-                    ..S%*+++++*?%####%%?+;;;;;;;;+****%S%SSS%%**++++%S+                   
-                    ..S*+++*%#@###S###SS%?++;;;;;+*%S#S#######SS*++?%:                   
-                    ..%*+**#S%?******?????*+;;;;;+*?????***+**?%%%++*?,                   
-                   ...**++???**?%###%%?????*++;;+*??%%%?#@#%%??***+++?,;:                 
-                   :+*?*+++**S#?*#@@%;+??****++++*?*%?++#@@%*%S?*++++?*+,                 
-                    ;***+++**??%?????*******+++++**????*????%?***++++**+.                 
-                     ,*+++++++++++++++*****+++++++******++++++++++++++;.                  
-                     .**+++++++++;;;+++++*+++++++++***+++++++++++++++*:                   
-                     .+++++++++;;;;;;;;++*+++++;+++**++;+;;+;;++++++++,                   
-                     .:*+++++++;;;;;;;++***++++++++**+++++;+;;++++++*;                    
-                      ,+++++++++;;;;;;++*++++;;;;+++**+;+;;++++++++*+:                    
-                      .;++++++++;;;;;+++*%%?*****??S?*+++++++++++++*+                     
-                       .,;+++++++;;;;;+++*****??**?**+++++++++++++;,.                     
-                          +++++++++;+++++*****+++?**+++++++++++++;                        
-                          ;++*+++++++*+++??????**??*+*+++++++++++:                        
-                          .+++*++++********?**+**??*?*****+++++++                         
-                          .:++++*++***?%???%%????%%%???***++++++                          
-                           .;++*+*+****??**+++++++*?********+++.                          
-                             +*+**********????%%???***********+.                          
-                            .+*?**************?*+++***********+.                          
-                            :***????***+++++;+++;+++******??++*.                          
-                            ;****%S%?*??**+++*?*++***????%?****.                  
-                     :+S@@#%******?%##SSS%???%S%???%%SSS%?*******?#@@@?,                  
-                   +S@@#?************??###@#@@@@@@@##%?**************%@#S.                
-                .;#@@@#?************************???******************?#@@@@#;.            
-            ..?S#@@@@@@%***?******+********+++++****************?****#@@@@@@@@S*,         
-         ,+S###@@@@@@@@#?***?*****+++********++********++*******?***S@@@@@@@@@@#@##*,.    
-     ,*S###@@##@@#@@@@@@#**??******++********??*******++*******??**S@@@@@@@#@@@@#@@##@#?;.
-.:%##@####@@@@@@@#@@@@@@@#?*********+******************+*******?**S@@@@@@@@######@@@@#####
-####@@#####@@@@@#@@@@@@@@#S?*********+**************************?#@@@@@#@@@@@####@@####@@@
-##@@@@#@@@@@@###@@@@@@@@@@#S?***+*****+*****??????*************?@#@@@@###@@@@##@#@@@@@@@@#
-#@@@###@@@@#@@@@@@@@@@@@@@@#S?*++++***++***********+++****+++*S@@#@@@@@####@@@@########@@@
-@@@@@@@@##@@@##@@@@@@###@@#@@S?+;;+++++++++******++++++*++++%@@@#@@####@@####@###@@@@@@@@#
-###@@@@@@@@@@@@@@@@@@@@@@@@@@@@%++;;;;;+;;+++++++++;+++++*S#@@@@@#####@@@@@@##@@#@@@##@@@@
-@@@@@@@@@@@@@@######@@@@@@#@@@@@#?++;;;;;;;;;;;;;+;;;++S##@@@@@@@#@##@######@@@#@@@@@@@@@@
-@@@@#@@@@@@@@@@@@@###@###@@##@@@@@@#%*++;;;;;;;;;;+?S@@@@#@@@@@@@#####@@@@@@#@@@@####@@@@@
-@@@@@@@#@@@@@@@@@@@@@@@@@##@@@@@@@@@@@@@#########@@@@@@@@@@@#@@######@#@@#@@@@#@@@@@@@@@@@
-@@@@#@@@@@@@@@@@#@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##@@@@@@@@@@@@@###@@@@@@@@@@@###
-@@@@@@@@#@@@@@@@@@@@@@#@@@@@@@@##@@@@@@@@@@@@@@@@@#####@#@@@@@#####@@@@@@@@@@@@@@#@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@##@@@@@@@@#@@@@@@@@@@@@@@###@@@@@@@@@###@@@@@#@@@###@@@@@@@@@@#@@@@
+EN: High-bandwidth AI Developer driven by a Combined-Type ADHD hyperfocus engine. Focused on privacy-first local LLM deployments, computer vision pipelines, voice automation, and DIY micro-power electronics.
 
- USER       :: Yusuf Akil
- UNIV       :: Ahmet Yesevi University (Ахмет Ясави / Ahmet Yesevi)
- MAJOR      :: Artificial Intelligence & Data Analysis
-               (Искусственный интеллект и анализ данных / Yapay Zeka ve Veri Analizi)
- ROLE       :: AI Developer & Systems Architect
- MINDSET    :: Combined-Type ADHD (Hyperfocus Engine Enabled ⚡)
- FOCUS      :: Local AI, Edge Computing, Vision Models & Embedded Hardware
- SHELL      :: zsh / bash / Termux Environment
- STATUS     :: Executing continuous high-bandwidth iteration loops
-╚════════════════════════════════════════════════════════════════════════════════════════╝
+RU: Разработчик ИИ и системных решений с высоким уровнем гиперфокуса (СДВГ смешанного типа). Специализируюсь на локальных языковых моделях (LLM), компьютерном зрении, автоматизации и микроэлектронике.
 
-```
+TR: Hibrit DEHB (Kombine Tip) hiperodaklanma gücüyle üreten Yapay Zeka ve Veri Analizi öğrencisi. Yerel LLM mimarileri, bilgisayarlı görü, sesli otomasyon ve donanım prototipleme üzerine odaklanıyorum.
 
----
+🚀 Core Systems & Active Projects
 
-```bash
-yusuf@system-core ~$ cat /sys/kernel/mindset_manifesto.log
+🤖 JARVIS: Voice-controlled local AI & system automation core (Python, Ollama/GGUF, SpeechRec).
 
-```
+🐺 BÖRÜ: On-device mobile AI engine running natively on Android via Termux (Python, OpenCV, GGUF).
 
-> 🇬🇧 **EN:**
-> **⚡ THE COMBINED-TYPE ADHD ADVANTAGE**
-> Modern engineering requires rapid adaptation and relentless curiosity. Operating on a **Combined-Type ADHD** processing core, I leverage hyperfocus to rapidly disintegrate complex technical friction—transforming abstract low-level ideas into deployed local AI pipelines and physical circuit prototypes.
+🏕️ PRIMITIVUS: Bushcraft, survival systems, and primitive technology mobile application architecture.
 
-> 🇷🇺 **RU:**
-> **⚡ ПРЕИМУЩЕСТВО СДВГ СМЕШАННОГО ТИПА**
-> Современная инженерия требует быстрой адаптации и неутомимого любопытства. Работая на базе **СДВГ смешанного типа**, я использую гиперфокус для быстрого устранения сложных технических проблем, превращая абстрактные низкоуровневые идеи в готовые локальные ИИ-системы и физические прототипы.
+⚡ Arc-Core-Cell: Salvaged hardware prototyping and recycled micro-power electronics development.
 
-> 🇹🇷 **TR:**
-> **⚡ HİBRİT DEHB AVANTAJI**
-> Modern mühendislik hızlı adaptasyon ve bitmeyen bir merak gerektirir. **Hibrit DEHB** çekirdeğiyle çalışarak, karmaşık teknik engelleri hiperodaklanma ile hızla ortadan kaldırıyorum; soyut fikirleri çalışan yerel yapay zeka sistemlerine ve fiziksel devrelere dönüştürüyorum.
+🛠️ Technical Capabilities
 
----
+Languages: Python, C++, SQL, Bash / Shell Scripting
 
-```bash
-yusuf@system-core ~$ sys_status --list-projects --verbose
+AI & Vision: Ollama / GGUF Models, OpenCV, SpeechRecognition, Local Model Deployment
 
-```
+Environments: Arch Linux, Termux, Docker, Git & GitHub, VS Code
 
-```text
-┌── [SYS_CORE_01] 🤖 JARVIS ─────────────────────────────────────────────────────────────┐
-│ ├─ EN : Voice-Automated Local AI Assistant & Core Control Engine                      │
-│ ├─ RU : Голосовой локальный ИИ-ассистент и движок управления системой                 │
-│ ├─ TR : Sesli Komutlu Yerel Yapay Zeka Asistanı & Sistem Kontrol Merkezi             │
-│ └─ STACK : Python | Ollama / GGUF | SpeechRecognition | Native APIs                    │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-┌── [SYS_CORE_02] 🐺 BÖRÜ ──────────────────────────────────────────────────────────────┐
-│ ├─ EN : On-Device Mobile AI Engine (Running natively on Termux/Android)               │
-│ ├─ RU : Автономный мобильный ИИ-движок (Работает через Termux/Android)                │
-│ ├─ TR : Cihaz Üstü Mobil Yapay Zeka Motoru (Termux/Android üzerinde yerel)            │
-│ └─ STACK : Python | Ollama | OpenCV | Termux System Integration                       │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-┌── [SYS_CORE_03] 🏕️ PRIMITIVUS ────────────────────────────────────────────────────────┐
-│ ├─ EN : Primitive Technology & Bushcraft System Architecture                          │
-│ ├─ RU : Архитектура систем выживания и примитивных технологий                         │
-│ ├─ TR : İlkel Teknoloji ve Doğa Sporları Sistem Mimarisi                              │
-│ └─ STACK : Mobile Development | UI/UX Design | Python                                 │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-┌── [SYS_CORE_04] ⚡ ARC-CORE-CELL ─────────────────────────────────────────────────────┐
-│ ├─ EN : Hardware Prototyping & Recycled Micro-Power Electronics                       │
-│ ├─ RU : Прототипирование железа и микромощная электроника из вторичных компонентов     │
-│ ├─ TR : Donanım Prototipleme & Geri Dönüştürülmüş Mikro Güç Elektroniği               │
-│ └─ STACK : Hardware Hacking | Circuit Design | Power Systems                          │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+Hardware & Systems: Micro-Power Electronics, Component Salvaging, Primitive Engineering
 
-⏳ [STATUS] INFRASTRUCTURE AND PROJECTS ARE CONTINUOUSLY EXPANDING & EVOLVING... ⏳
+🧠 Mindset Manifesto
+Hyperfocus transforms complex technical friction into deployed, working prototypes in record time. Driven by endless curiosity across AI software, embedded hardware, and system architectures.
 
-```
+📫 Contact: yusufakilyusufakilkarakis@gmail.com</p>
 
----
+<h3 align="center">✨ My Toolbox ✨</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-102216?style=for-the-badge&logo=openai&logoColor=11d452" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Canva-102216?style=for-the-badge&logo=canva&logoColor=11d452" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
 
-```bash
-yusuf@system-core ~$ cat /etc/capabilities.json
+<p align="center">
+  <img src="https://github-profile-trophy-mu.vercel.app/?username=YusufAkil-Ai&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-```
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YusufAkil-Ai&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YusufAkil-Ai&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
-```json
-{
-  "languages": ["Python", "C++", "SQL", "Bash / Shell"],
-  "ai_and_vision": ["Ollama / GGUF Models", "OpenCV Pipeline", "SpeechRecognition"],
-  "environments": ["Arch Linux", "Termux", "Docker", "Git", "VS Code"],
-  "embedded_and_hacks": ["Micro-power Systems", "Component Salvaging", "Circuit Design"],
-  "core_traits": {
-    "EN": ["High-Velocity Iteration", "Hyperfocus Engineering", "System Architecture"],
-    "RU": ["Высокоскоростная разработка", "Инженерия в гиперфокусе", "Архитектура систем"],
-    "TR": ["Yüksek Hızlı İterasyon", "Hiperodak Mühendisliği", "Sistem Mimarisi"]
-  }
-}
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufAkil-Ai&theme=dracula" alt="GitHub Streak" />
+</p>
 
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusufAkil-Ai&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
----
-
-```bash
-yusuf@system-core ~$ fetch --analytics --theme=cyberpunk_cyan
-
-```
-
-[
-
-](mailto:yusufakilyusufakilkarakis@gmail.com)
-
-```
-
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
